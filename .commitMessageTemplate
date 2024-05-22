@@ -14,6 +14,7 @@ BODY
 ## - visual: 비주얼 디자인(css 등)
 ## - fix: 버그 수정
 ## - cicd: 배포 관련
+## - doc: 문서화(README.md 등)
 ## - etc: 기타 잡다구리
 ##
 ## * (다수 프로젝트를 모아둔)mono-repo의 경우
